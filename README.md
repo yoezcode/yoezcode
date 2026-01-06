@@ -42,7 +42,7 @@ with a focus on secure, scalable cloud infrastructure.
 ## 🧪 Projects & Learning Repositories
 
 ### ☁️ aws-cloud-engineer-labs
-![AWS Cloud Engineer Course](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
+[AWS Cloud Engineer Curriculum – neuefische](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
 
 AWS curriculum from my cloud engineering training, covering:
 - Networking & VPC design
@@ -55,7 +55,9 @@ AWS curriculum from my cloud engineering training, covering:
 ---
 
 ### 🔐 security-learning
-![Hack The Box Academy – Junior Cybersecurity Analyst Path](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
+![HTB Academy](https://img.shields.io/badge/Hack_The_Box_Academy-000000?style=flat&logo=hackthebox&logoColor=white)
+
+[View Academy Path - Junior Cybersecurity Analyst](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
 
 Notes, labs, and experiments focused on:
 - Cloud & network security fundamentals
