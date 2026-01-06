@@ -42,8 +42,7 @@ with a focus on secure, scalable cloud infrastructure.
 ## 🧪 Projects & Learning Repositories
 
 ### ☁️ aws-cloud-engineer-labs
-
-[![AWS Training](https://img.shields.io/badge/AWS_Training-neuefische-orange)](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
+[AWS Cloud Engineer Course – neuefische](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
 
 AWS curriculum from my cloud engineering training, covering:
 - Networking & VPC design
@@ -52,6 +51,7 @@ AWS curriculum from my cloud engineering training, covering:
 - Monitoring & security best practices
 
 **Status:** In Progress
+
 
 ---
 
