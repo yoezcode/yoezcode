@@ -54,7 +54,7 @@ AWS curriculum from my cloud engineering training, covering:
 
 ---
 
-### 🔐 cloud-security-learning
+### 🔐 security-learning
 ![Hack The Box Academy – Junior Cybersecurity Analyst Path](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
 
 Notes, labs, and experiments focused on:
@@ -64,6 +64,11 @@ Notes, labs, and experiments focused on:
 - Introductory penetration testing concepts
 
 **Status:** Active learning path
+
+📄 **Hack The Box Academy Progress (PDF)**  
+✔ Completed modules  
+✔ In-progress learning path  
+➡️ [View learning record](academy-progress-record/htb_record.pdf)
 
 ---
 
