@@ -56,7 +56,10 @@ AWS curriculum from my cloud engineering training, covering:
 ---
 
 ### 🔐 cloud-security-learning
-[![Hack The Box Academy](https://via.placeholder.com/300x150?text=HTB+Academy)](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
+
+<img src="https://www.hackthebox.com/images/HTB-Logo.svg" width="220">
+
+[Hack The Box Academy – Junior Cybersecurity Analyst Path](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
 
 Notes, labs, and experiments focused on:
 - Cloud & network security fundamentals
