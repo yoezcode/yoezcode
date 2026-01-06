@@ -1,6 +1,6 @@
 # WELCOME 👋
 
-**AWS Cloud Engineer in Training | Security & Pentesting Enthusiast**
+**Junior AWS Cloud Engineer | Security & Pentesting Enthusiast**
 
 I’m currently pursuing professional training as an **AWS Cloud Engineer**  
 and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
@@ -10,7 +10,7 @@ with a focus on secure, scalable cloud infrastructure.
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps Skills
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -33,33 +33,42 @@ with a focus on secure, scalable cloud infrastructure.
 - Networking fundamentals: TCP/IP, DNS, HTTP
 - Web security basics: OWASP Top 10
 - Tools: Nmap, Burp Suite, Metasploit, Wireshark
-- Kali Linux
+- Kali Linux, Windows
 
 > Currently focusing on: **Privilege Escalation, Web Exploits, Cloud Security Basics**
 
 ---
 
-## 🧪 Projects & Portfolio
+## 🧪 Projects & Learning Repositories
 
-### AWS Cloud Labs
-![AWS Lab Demo](https://via.placeholder.com/300x150?text=AWS+Lab+Demo)  
-Hands-on labs from my AWS training: networking, IAM, EC2, monitoring, security best practices.  
-**Status:** 🔹 In Progress  
+### ☁️ aws-cloud-engineer-labs
+![AWS Labs]([https://via.placeholder.com/300x150?text=AWS+Cloud+Labs](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content))
 
-### Hack The Box Writeups
-![HTB Demo](https://via.placeholder.com/300x150?text=HTB+Writeups)  
-Personal notes and learning summaries from solved machines & challenges.  
-**Status:** 🔹 Active  
+Hands-on AWS labs from my cloud engineering training, covering:
+- Networking & VPC design
+- IAM & access control
+- EC2 deployments
+- Monitoring & security best practices
 
-### Security Playground
-![Security Playground](https://via.placeholder.com/300x150?text=Security+Playground)  
-Scripts & experiments for scanning, enumeration, and automation.  
-**Status:** 🔹 Active  
+**Status:** In Progress
+
+---
+
+### 🔐 cloud-security-learning
+![Hack The Box Academy]([https://via.placeholder.com/300x150?text=Cloud+Security+Learning](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst))
+
+Notes, labs, and experiments focused on:
+- Cloud & network security fundamentals
+- Scanning & enumeration
+- Web application security basics
+- Introductory penetration testing concepts
+
+**Status:** Active learning path as a Cybersecurity Analyst
 
 ---
 
 ## 📈 GitHub Stats
-![yoezcode GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoezcode&show_icons=true&theme=tokyonight)
+![GitHub Stats yoezcode](https://github-readme-stats.vercel.app/api?username=yoezcode&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoezcode&layout=compact&theme=tokyonight)
 
@@ -78,4 +87,4 @@ Scripts & experiments for scanning, enumeration, and automation.
 
 ---
 
-> *“The cloud is just someone else’s computer — unless you understand it.”*
+> *“Security is not about breaking systems — it’s about understanding them deeply.”*
