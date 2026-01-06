@@ -68,7 +68,7 @@ Notes, labs, and experiments focused on:
 📄 **Hack The Box Academy Progress (PDF)**  
 ✔ Completed modules  
 ✔ In-progress learning path  
-➡️ [View learning record](academy-progress-record/htb_record.pdf)
+➡️ [View current learning record](htb_record.pdf)
 
 ---
 
