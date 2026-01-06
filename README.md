@@ -73,9 +73,9 @@ Notes, labs, and experiments focused on:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats yoezcode](https://github-readme-stats.vercel.app/api?username=yoezcode&show_icons=true&theme=tokyonight)
+![GitHub Stats yoezcode](https://github-readme-stats.vercel.app/api?username=yoezcode&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoezcode&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoezcode&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
