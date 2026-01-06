@@ -74,7 +74,7 @@ Scripts & experiments for scanning, enumeration, and automation.
 ---
 
 ## 📫 Connect
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-000000?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/public/users/420310)  
+[![Hack The Box Profile URL](https://img.shields.io/badge/Hack_The_Box-000000?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/public/users/420310)  
 
 ---
 
