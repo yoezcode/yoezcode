@@ -2,7 +2,7 @@
 
 **Junior AWS Cloud Engineer | Security & Pentesting Enthusiast**
 
-I’m currently pursuing professional training as an **AWS Cloud Engineer**  
+I’m currently training as an **AWS Cloud Engineer**  
 and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
 
 I enjoy understanding how systems work — and how they break —  
@@ -42,9 +42,9 @@ with a focus on secure, scalable cloud infrastructure.
 ## 🧪 Projects & Learning Repositories
 
 ### ☁️ aws-cloud-engineer-labs
-![AWS Labs]([https://via.placeholder.com/300x150?text=AWS+Cloud+Labs](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content))
+![AWS Cloud Engineer Course](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
 
-Hands-on AWS labs from my cloud engineering training, covering:
+AWS curriculum from my cloud engineering training, covering:
 - Networking & VPC design
 - IAM & access control
 - EC2 deployments
@@ -55,7 +55,7 @@ Hands-on AWS labs from my cloud engineering training, covering:
 ---
 
 ### 🔐 cloud-security-learning
-![Hack The Box Academy]([https://via.placeholder.com/300x150?text=Cloud+Security+Learning](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst))
+![Hack The Box Academy](https://academy.hackthebox.com/path/preview/junior-cybersecurity-analyst)
 
 Notes, labs, and experiments focused on:
 - Cloud & network security fundamentals
