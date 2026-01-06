@@ -50,7 +50,7 @@ AWS curriculum from my cloud engineering training, covering:
 - EC2 deployments
 - Monitoring & security best practices
 
-**Status:** In Progress
+**Status:** 🔹 In Progress
 
 ---
 
@@ -65,7 +65,7 @@ Notes, labs, and experiments focused on:
 - Web application security basics
 - Introductory penetration testing concepts
 
-**Status:** Active learning path
+**Status:** 🔹 Active learning path
 
 📄 **Hack The Box Academy Progress (PDF)**  
 ✔ Completed modules  
