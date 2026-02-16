@@ -2,8 +2,7 @@
 
 **AWS Cloud Engineer | Security & Pentesting Enthusiast**
 
-I’m currently training as an **AWS Cloud Engineer**  
-and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
+**AWS Cloud Engineer** and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
 
 I enjoy understanding how systems work — and how they break —  
 with a focus on secure, scalable cloud infrastructure.
