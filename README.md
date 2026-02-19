@@ -1,7 +1,5 @@
 # WELCOME 👋
 
-**AWS Cloud Engineer | Security & Pentesting Enthusiast**
-
 **AWS Cloud Engineer** and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
 
 I enjoy understanding how systems work — and how they break —  
@@ -15,7 +13,7 @@ with a focus on secure, scalable cloud infrastructure.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- EC2, S3, IAM, VPC, Lambda (in progress)
+- EC2, S3, IAM, VPC, Lambda
 - Infrastructure as Code: Terraform
 - Docker & containerization
 - Linux & Bash fundamentals
@@ -78,11 +76,6 @@ Notes, labs, and experiments focused on:
 - Improve offensive security skills step by step
 - Combine Cloud Engineering with Security-first thinking
 - Document learning progress transparently
-
----
-
-## 📫 Connect
-[![Hack The Box Profile URL](https://img.shields.io/badge/Hack_The_Box_Profile-000000?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/public/users/420310)  
 
 ---
 
