@@ -1,5 +1,3 @@
-# WELCOME 👋
-
 **Cloud Engineer** and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
 
 I enjoy understanding how systems work — and how they break —  
