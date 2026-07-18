@@ -1,6 +1,6 @@
 # WELCOME 👋
 
-**AWS Cloud Engineer** and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
+**Cloud Engineer** and actively building hands-on skills in **Cloud Security** and **Penetration Testing**.
 
 I enjoy understanding how systems work — and how they break —  
 with a focus on secure, scalable cloud infrastructure.
@@ -36,21 +36,6 @@ with a focus on secure, scalable cloud infrastructure.
 
 ---
 
-## 🧪 Projects & Learning Repositories
-
-### ☁️ aws-cloud-engineer-labs
-[AWS Cloud Engineer Curriculum – neuefische](https://www.neuefische.de/en/bootcamp/aws-cloud-computing#course-content)
-
-AWS curriculum from my cloud engineering training, covering:
-- Networking & VPC design
-- IAM & access control
-- EC2 deployments
-- Monitoring & security best practices
-
-**Status:** 🔹 In Progress
-
----
-
 ### 🔐 security-learning
 ![HTB Academy](https://img.shields.io/badge/Hack_The_Box_Academy-000000?style=flat&logo=hackthebox&logoColor=white)
 
@@ -68,15 +53,3 @@ Notes, labs, and experiments focused on:
 ✔ Completed modules  
 ✔ In-progress learning path  
 ➡️ [View current learning record](htb_record.pdf)
-
----
-
-## 🎯 Current Goals
-- Build secure AWS architectures from scratch
-- Improve offensive security skills step by step
-- Combine Cloud Engineering with Security-first thinking
-- Document learning progress transparently
-
----
-
-> *“Security is not about breaking systems — it’s about understanding them deeply.”*
